@@ -1,5 +1,5 @@
 ### Hi there, My Name Is Himeji
-website
+[comming soon][website]
 
 ## I'm a 15 Years old Gamer and Developer!
 
@@ -13,6 +13,8 @@ website
 [<img align="left" alt="Himeji | Twitch" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitchLogo.png" />][twitch]
 [<img align="left" alt="Himeji | Twitter" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitterLogo.png" />][twitter]
 [<img align="left" alt="卄imeji ᗪev ǁ 💻 | Discord Server" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/DiscordLogo.png" />][discord]
+
+<br />
 
 #### Comming Soon:
 
@@ -31,15 +33,6 @@ website
 
 <br />
 <br />
-
----
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="HimejiDev's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=HimejiDev&show_icons=true&hide_border=true" />
-
-</details>
 
 [VSCode]: https://code.visualstudio.com
 [VS2019]: https://visualstudio.microsoft.com/vs/
