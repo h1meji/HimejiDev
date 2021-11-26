@@ -10,26 +10,26 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Himeji | Twitch" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitchLogo.png" />][twitch]
-[<img align="left" alt="Himeji | Twitter" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitterLogo.png" />][twitter]
-[<img align="left" alt="卄imeji ᗪev ǁ 💻 | Discord Server" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/DiscordLogo.png" />][discord]
+[<img align="left" alt="Himeji | Twitch" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitchLogo.png" />][twitch]
+[<img align="left" alt="Himeji | Twitter" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitterLogo.png" />][twitter]
+[<img align="left" alt="卄imeji ᗪev ǁ 💻 | Discord Server" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/DiscordLogo.png" />][discord]
 
 <br />
 
 #### Comming Soon:
 
-[<img align="left" alt="example.dev" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/WebsiteLogo.png" />][website]
-[<img align="left" alt="Himeji | Youtube" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/YoutubeLogo.png" />][youtube]
-[<img align="left" alt="Himeji | Instagram" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/InstagramLogo.png" />][instagram]
-[<img align="left" alt="Himeji | LinkedIn" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/LinkedInLogo.png" />][linkedin]
+[<img align="left" alt="example.dev" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/WebsiteLogo.png" />][website]
+[<img align="left" alt="Himeji | Youtube" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/YoutubeLogo.png" />][youtube]
+[<img align="left" alt="Himeji | Instagram" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/InstagramLogo.png" />][instagram]
+[<img align="left" alt="Himeji | LinkedIn" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/LinkedInLogo.png" />][linkedin]
 
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/VSCodeLogo.png" />][VSCode]
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/VS2019Logo.png" />][VS2019]
-[<img align="left" alt="C#" width="26px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/csharpLogo.png" />][csharp]
+[<img align="left" alt="Visual Studio Code" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/VSCodeLogo.png" />][VSCode]
+[<img align="left" alt="Visual Studio 2019" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/VS2019Logo.png" />][VS2019]
+[<img align="left" alt="C#" width="40px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/csharpLogo.png" />][csharp]
 
 <br />
 <br />
