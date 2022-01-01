@@ -1,5 +1,5 @@
 ### Hi there, My Name Is Himeji
-[comming soon][website]
+[himejidev.web.app][website]
 
 ## I'm a 15 Years old Gamer and Developer!
 
@@ -14,15 +14,15 @@
 
 [<img align="left" alt="Himeji | Twitch" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitchLogo.png" />][twitch]
 [<img align="left" alt="Himeji | Twitter" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitterLogo.png" />][twitter]
+[<img align="left" alt="Himeji | Instagram" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/InstagramLogo.png" />][instagram]
 [<img align="left" alt="卄imeji ᗪev ǁ 💻 | Discord Server" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/DiscordLogo.png" />][discord]
+[<img align="left" alt="example.dev" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/WebsiteLogo.png" />][website]
 
 <br />
 
 #### Comming Soon:
 
-[<img align="left" alt="example.dev" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/WebsiteLogo.png" />][website]
 [<img align="left" alt="Himeji | Youtube" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/YoutubeLogo.png" />][youtube]
-[<img align="left" alt="Himeji | Instagram" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/InstagramLogo.png" />][instagram]
 [<img align="left" alt="Himeji | LinkedIn" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/LinkedInLogo.png" />][linkedin]
 
 <br />
@@ -47,7 +47,7 @@
 [twitter]: https://twitter.com/HimejiMC
 [discord]: https://discord.gg/myrvjYK2MH
 
-[website]: https://example.net
+[website]: https://himejidev.web.app
 [youtube]: https://example.net
-[instagram]: https://example.net
+[instagram]: https://www.instagram.com/himejimc/
 [linkedin]: https://example.net
