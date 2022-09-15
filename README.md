@@ -1,12 +1,10 @@
 ### Hi there, My Name Is Himeji
 [himejidev.web.app][website]
 
-## I'm a 15 Years old Gamer and Developer!
+## I'm a 16 Years old Gamer and Developer!
 
-- 💻 Working on my new Multitool: InfinityMT
-- 🌱 Currently learning and improving my C# skills
-- 📚 Want to learn Java
-- 🥅 2022 Goals: Finish Projects, Learn Java and C++
+- 🌱 Currently learning and improving my C++ skills
+- 🥅 2022 Goals: Finish Projects
 
 ---
 
