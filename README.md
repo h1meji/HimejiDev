@@ -1,51 +1,44 @@
-### Hi there, My Name Is Himeji
-[himejidev.web.app][website]
+![banner](img/banner.png)
+### Hi there 👋, My name is Himeji!
 
-## I'm a 16 Years old Gamer and Developer!
-
-- 🌱 Currently learning and improving my C++ skills
-- 🥅 2022 Goals: Finish Projects
+---
+#### ✨ I am a 16 year old gamer and developer.
+<table><tr><td>
+- 🌱 Improving my C++ skills.</br>
+- 🥅 2022 Goals: Finishing Projects.</br>
+- 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/TheCodingTrainButCPP">TheCodingTrainButCPP</a>.</br>
+</td></tr></table>
 
 ---
 
-### Connect with me:
+#### Programming languages:
+<table><tr><td>
+- 🐱‍👤 <a href="https://dotnet.microsoft.com/en-us/">C#</a></br>
+- 😔 <a href="https://gcc.gnu.org/">C++</a></br>
+- 🐍 <a href="https://www.python.org/">Python</a></br>
+- ☕ <a href="https://www.javascript.com/">Javascript</a></br>
+</td></tr></table>
 
-[<img align="left" alt="Himeji | Twitch" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitchLogo.png" />][twitch]
-[<img align="left" alt="Himeji | Twitter" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/TwitterLogo.png" />][twitter]
-[<img align="left" alt="Himeji | Instagram" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/InstagramLogo.png" />][instagram]
-[<img align="left" alt="卄imeji ᗪev ǁ 💻 | Discord Server" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/DiscordLogo.png" />][discord]
-[<img align="left" alt="example.dev" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/WebsiteLogo.png" />][website]
+#### Programming tools:
+<table><tr><td>
+- 💻 <a href="https://code.visualstudio.com">Visual Studio Code</a></br>
+- 🖥️ <a href="https://visualstudio.microsoft.com/vs/">Visual Studio 2022</a></br>
+- 🐍 <a href="https://www.jetbrains.com/pycharm/">PyCharm</a></br>
+</td></tr></table>
 
-<br />
-
-#### Comming Soon:
-
-[<img align="left" alt="Himeji | Youtube" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/YoutubeLogo.png" />][youtube]
-[<img align="left" alt="Himeji | LinkedIn" width="22px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/LinkedInLogo.png" />][linkedin]
-
-<br />
+#### Contact:
+<table><tr><td>
+- 🌐  <a href="https://example.com">Website</a></br>
+- 💻 <a href="https://example.com">Discord</a></br>
+- 🔴 <a href="https://twitch.tv/himejimc">Twitch</a></br>
+- 🗨️ <a href="https://twitter.com/himejimc">Twitter</a></br>
+- 🎥 <a href="https://youtube.com/@himeji.">YouTube</a></br>
+- 📸 <a href="https://instagram.com/himejimc">Instagram</a></br>
+</td></tr></table>
 
 ---
 
-### Languages and Tools i use:
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=himejidev)](https://github.com/anuraghazra/github-readme-stats)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/VSCodeLogo.png" />][VSCode]
-[<img align="left" alt="Visual Studio 2019" width="26px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/VS2019Logo.png" />][VS2019]
-[<img align="left" alt="C#" width="26px" src="https://github.com/HimejiDev/HimejiDev/blob/main/README/csharpLogo.png" />][csharp]
-
-<br />
-<br />
-
-[VSCode]: https://code.visualstudio.com
-[VS2019]: https://visualstudio.microsoft.com/vs/
-
-[csharp]: https://dotnet.microsoft.com/languages/csharp
-
-[twitch]: https://www.twitch.tv/himejimc
-[twitter]: https://twitter.com/HimejiMC
-[discord]: https://discord.gg/myrvjYK2MH
-
-[website]: https://himejidev.web.app
-[youtube]: https://example.net
-[instagram]: https://www.instagram.com/himejimc/
-[linkedin]: https://example.net
+---
+[![buy_me_a_coffee](img/buymeacoffee.png)](https://www.buymeacoffee.com/himeji)
