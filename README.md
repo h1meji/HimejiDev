@@ -3,9 +3,9 @@
 
 ---
 #### 📚 **Meet Himeji!**
-> Hey there, I'm **Himeji** 👋, a 16-year-old from The Netherlands who loves 💻 programming and 🕹️ gaming (especially Minecraft 🎮). I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like Javascript/NodeJS, C#/.NET, Python, HTML, CSS, C++, and Java.
+> Hey there, I'm **Himeji** 👋, a 16-year-old from The Netherlands who loves 💻 programming and 🕹️ gaming (especially Minecraft 🌱). I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like **Javascript/NodeJS**, **C#/.NET**, **Python**, **HTML/CSS**, and I'm trying some **C++** and **Java**.
 > 
-> In my free time, you'll usually find me building Discord bots using DiscordJS 🤖 - it's so much fun! I do have this bad habit of never finishing projects though...oops 🤔. Oh, and I'm in my last year of high school 🎓 right now, trying to improve my C++ skills 🚀.
+> In my free time, you'll usually find me building Discord bots using **DiscordJS** 🤖 - it's so much fun! I do have this bad habit of never finishing projects though...oops 🤔. Oh, and I'm in my last year of high school 🎓 right now, trying to improve my C++ skills 🚀.
 > 
 > Anyway, it's cool to meet you 🤝!
 
@@ -33,18 +33,17 @@
 
 <!-- | 🌐 [Website](https://example.com) -->
 <!-- | 📧 E-Mail (himejidev@proton.me) -->
----
 
-#### 💼 Projects:
-<table><tr><td>
-- <b>[🚧]</b> 🔥 <a href="https://github.com/HimejiDev/Eleven">Eleven</a></br>
-- <b>[🌟]</b> 📦 <a href="https://github.com/HimejiDev/DiscordBotTemplate">Discord Bot Template</a></br>
-- <b>[🌟]</b> 🔗 <a href="https://github.com/HimejiDev/DiscordPackageLinks">Discord Package Links</a> [<a href="https://himejidev.github.io/DiscordPackageLinks/">Website</a>]</br>
-- <b>[🌟]</b> 💾 <a href="https://github.com/HimejiDev/minecraft-nbt">Minecraft Bedrock NBT Scripts</a></br>
-- <b>[🌟]</b> 🎨 <a href="https://github.com/HimejiDev/ImGui-Template">ImGUI Template</a></br>
-- <b>[🚧]</b> 🖼️ <a href="https://github.com/HimejiDev/text-to-pixels">Text To Pixels</a> [<a href="https://himejidev.github.io/text-to-pixels/">Website</a>]</br>
-- <b>[🚧]</b> 🚂  <a href="https://github.com/HimejiDev/TheCodingTrainButCPP">TheCodingTrainButCPP</a></br>
-</td></tr></table>
+| 🚧 Status | 💼 Project |
+| :---: | ---- |
+| **[🚧]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) |
+| **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/Eleven) |
+| **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/Eleven) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] |
+| **[🌟]** | 💾 [Minecraft Bedrock NBT Scripts](https://github.com/HimejiDev/minecraft-nbt) |
+| **[🌟]** | 🎨 [ImGUI Template](https://github.com/HimejiDev/ImGui-Template) |
+| **[🚧]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] |
+| **[🚧]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) |
+
 
 ---
 <!-- 
