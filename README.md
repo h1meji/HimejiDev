@@ -41,6 +41,7 @@
 | **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/Eleven) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] |
 | **[🌟]** | 💾 [Minecraft Bedrock NBT Scripts](https://github.com/HimejiDev/minecraft-nbt) |
 | **[🌟]** | 🎨 [ImGUI Template](https://github.com/HimejiDev/ImGui-Template) |
+| **[🌟]** | 🕹️ [Fluid Simulation](https://github.com/Steve987321/CooleSimulatie) |
 | **[🚧]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] |
 | **[🚧]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) |
 
