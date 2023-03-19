@@ -34,16 +34,16 @@
 <!-- | 🌐 [Website](https://example.com) -->
 <!-- | 📧 E-Mail (himejidev@proton.me) -->
 
-| 🚧 Status | 💼 Project |
-| :---: | ---- |
-| **[🚧]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) |
-| **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/Eleven) |
-| **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/Eleven) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] |
-| **[🌟]** | 💾 [Minecraft Bedrock NBT Scripts](https://github.com/HimejiDev/minecraft-nbt) |
-| **[🌟]** | 🎨 [ImGUI Template](https://github.com/HimejiDev/ImGui-Template) |
-| **[🌟]** | 🕹️ [Fluid Simulation](https://github.com/Steve987321/CooleSimulatie) |
-| **[🚧]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] |
-| **[🚧]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) |
+| 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
+| :---: | ---- | ---- |
+| **[🚧]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
+| **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
+| **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/Eleven) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] | 💬 [Javascript/NodeJS](https://nodejs.org/en) |
+| **[🌟]** | 💾 [Minecraft Bedrock NBT Scripts](https://github.com/HimejiDev/minecraft-nbt) | 💾 [JSON]() |
+| **[🌟]** | 🎨 [ImGUI Template](https://github.com/HimejiDev/ImGui-Template) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) |
+| **[🌟]** | 🕹️ [Fluid Simulation](https://github.com/Steve987321/CooleSimulatie) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) / 🎨 [SFML](https://github.com/SFML/SFML) |
+| **[🚧]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] | 💬 [Javascript/NodeJS](https://nodejs.org/en) |
+| **[🚧]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) | 🐱‍👤 [C++](https://gcc.gnu.org/) |
 
 
 ---
