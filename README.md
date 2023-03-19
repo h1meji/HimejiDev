@@ -26,14 +26,6 @@
 | ☕ [Java](https://dotnet.microsoft.com/en-us/) | 🤓 [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows) |
 | 🎨 [HTML/CSS](https://www.w3schools.com/) | 💻 [Visual Studio Code](https://code.visualstudio.com) |
 
-| 📬 Contact |  |
-| --- | ---- |
- | 💻 [Discord](https://www.discord.com/users/616956504234262539) | 🗨️ [Twitter](https://twitter.com/himejimc) |
-|  🔴 [Twitch](https://twitch.tv/himejimc) | 🎥 [YouTube](https://youtube.com/@himeji.) | 
-
-<!-- | 🌐 [Website](https://example.com) -->
-<!-- | 📧 E-Mail (himejidev@proton.me) -->
-
 | 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
 | :---: | ---- | ---- |
 | **[🚧]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
@@ -45,6 +37,13 @@
 | **[🚧]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] | 💬 [Javascript](https://www.javascript.com/) |
 | **[🚧]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) | 🐱‍👤 [C++](https://gcc.gnu.org/) |
 
+| 📬 Contact |  |
+| --- | ---- |
+ | 💻 [Discord](https://www.discord.com/users/616956504234262539) | 🗨️ [Twitter](https://twitter.com/himejimc) |
+|  🔴 [Twitch](https://twitch.tv/himejimc) | 🎥 [YouTube](https://youtube.com/@himeji.) | 
+
+<!-- | 🌐 [Website](https://example.com) -->
+<!-- | 📧 E-Mail (himejidev@proton.me) -->
 
 ---
 <!-- 
