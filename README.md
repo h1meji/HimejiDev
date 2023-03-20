@@ -29,8 +29,8 @@
 | 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
 | :---: | ---- | ---- |
 | **[🚧]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
-| **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
-| **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/Eleven) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] | 💬 [Javascript](https://www.javascript.com/) |
+| **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/DiscordBotTemplate) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
+| **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/DiscordPackageLinks) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] | 💬 [Javascript](https://www.javascript.com/) |
 | **[🌟]** | 💾 [Minecraft Bedrock NBT Scripts](https://github.com/HimejiDev/minecraft-nbt) | 💾 [JSON]() |
 | **[🌟]** | 🎨 [ImGUI Template](https://github.com/HimejiDev/ImGui-Template) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) |
 | **[🌟]** | 🕹️ [Fluid Simulation](https://github.com/Steve987321/CooleSimulatie) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) / 🎨 [SFML](https://github.com/SFML/SFML) |
