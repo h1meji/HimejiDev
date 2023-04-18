@@ -10,7 +10,7 @@
 > Anyway, it's cool to meet you 🤝!
 
 <table><tr><td>
-- 🌱 Improving my C++ skills.</br>
+- 🌱 Improving my C++ & Rust skills.</br>
 - 🥅 2023 Goals: Finishing Projects.</br>
 - 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/Eleven">Eleven</a>.</br>
 </td></tr></table>
@@ -20,6 +20,7 @@
 | 👨‍💻 Language | 🧰 Tool |
 | --- | ---- |
 | 🐱‍👤 [C#/.NET](https://dotnet.microsoft.com/en-us/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) |
+| 🦀 [Rust](https://www.rust-lang.org/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) |
 | 💬 [Javascript/NodeJS](https://nodejs.org/en) | 💻 [Visual Studio Code](https://code.visualstudio.com) |
 | 🐍 [Python](https://www.python.org/) | 🐍 [PyCharm](https://www.jetbrains.com/pycharm/) /  💻 [Visual Studio Code](https://code.visualstudio.com)  |
 | 🐱‍👤 [C++](https://gcc.gnu.org/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) /  💻 [Visual Studio Code](https://code.visualstudio.com)  |
