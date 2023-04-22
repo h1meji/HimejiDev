@@ -3,16 +3,16 @@
 
 ---
 #### 📚 **Meet Himeji!**
-> Hey there, I'm **Himeji** 👋, a 16-year-old from The Netherlands who loves 💻 programming and 🕹️ gaming (especially Minecraft 🌱). I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like **Javascript/NodeJS**, **C#/.NET**, **Python**, **HTML/CSS**, and I'm trying some **C++** and **Java**.
+> Hey there, I'm **Himeji** 👋, a 16-year-old from The Netherlands who loves 💻 programming and 🕹️ gaming (especially Minecraft 🌱). I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like **Javascript/NodeJS**, **C#/.NET**, **Python**, **HTML/CSS**, and I'm trying some **C++** and **Rust**.
 > 
-> In my free time, you'll usually find me building Discord bots using **DiscordJS** 🤖 - it's so much fun! I do have this bad habit of never finishing projects though...oops 🤔. Oh, and I'm in my last year of high school 🎓 right now, trying to improve my C++ skills 🚀.
+> In my free time, you'll usually find me building Discord/Revolt bots using **DiscordJS/RevoltJS** 🤖 - it's so much fun! I do have this bad habit of never finishing projects though...oops 🤔. Oh, and I'm in my last year of high school 🎓 right now, trying to improve my C++ and Rust skills 🚀.
 > 
 > Anyway, it's cool to meet you 🤝!
 
 <table><tr><td>
 - 🌱 Improving my C++ & Rust skills.</br>
 - 🥅 2023 Goals: Finishing Projects.</br>
-- 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/Eleven">Eleven</a>.</br>
+- 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/RevoltFriend">RevoltFriend</a>.</br>
 </td></tr></table>
 
 ---
@@ -29,14 +29,15 @@
 
 | 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
 | :---: | ---- | ---- |
-| **[🚧]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
+| **[🚧]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
+| **[💤]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
 | **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/DiscordBotTemplate) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
 | **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/DiscordPackageLinks) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] | 💬 [Javascript](https://www.javascript.com/) |
 | **[🌟]** | 💾 [Minecraft Bedrock NBT Scripts](https://github.com/HimejiDev/minecraft-nbt) | 💾 [JSON]() |
 | **[🌟]** | 🎨 [ImGUI Template](https://github.com/HimejiDev/ImGui-Template) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) |
 | **[🌟]** | 🕹️ [Fluid Simulation](https://github.com/Steve987321/CooleSimulatie) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) / 🎨 [SFML](https://github.com/SFML/SFML) |
-| **[🚧]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] | 💬 [Javascript](https://www.javascript.com/) |
-| **[🚧]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) | 🐱‍👤 [C++](https://gcc.gnu.org/) |
+| **[💤]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] | 💬 [Javascript](https://www.javascript.com/) |
+| **[💤]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) | 🐱‍👤 [C++](https://gcc.gnu.org/) |
 
 | 📬 Contact |  |
 | --- | ---- |
