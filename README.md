@@ -12,7 +12,7 @@
 <table><tr><td>
 - 🌱 Improving my C++ & Rust skills.</br>
 - 🥅 2023 Goals: Finishing Projects.</br>
-- 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/RevoltFriend">RevoltFriend</a>.</br>
+<!-- - 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/RevoltFriend">RevoltFriend</a>.</br> -->
 </td></tr></table>
 
 ---
@@ -29,7 +29,7 @@
 
 | 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
 | :---: | ---- | ---- |
-| **[🚧]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
+| **[💤]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
 | **[💤]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
 | **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/DiscordBotTemplate) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
 | **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/DiscordPackageLinks) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] | 💬 [Javascript](https://www.javascript.com/) |
