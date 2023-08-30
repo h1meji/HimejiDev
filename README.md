@@ -1,5 +1,5 @@
 <!-- ![banner](img/banner.png) -->
-### Hi there 👋, My name is Himeji!
+### Hi there 👋, My name is [Himeji](https://himeji.dev/)!
 
 ---
 #### 📚 **Meet Himeji!**
