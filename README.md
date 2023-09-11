@@ -43,8 +43,7 @@
 | --- | ---- |
  | 💻 [Discord](https://www.discord.com/users/706262422251634809) | 🗨️ [Twitter](https://twitter.com/h1m3ji) |
 |  🔴 [Twitch](https://twitch.tv/himejimc) | 🎥 [YouTube](https://youtube.com/@himeji.) | 
-
-<!-- | 🌐 [Website](https://example.com) -->
+| 🌐 [Website](https://himeji.dev/) | <- ❌ offline |
 <!-- | 📧 E-Mail (himejidev@proton.me) -->
 
 ---
