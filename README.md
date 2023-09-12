@@ -3,7 +3,7 @@
 
 ---
 #### 📚 **Meet Himeji!**
-> Hey there, I'm **Himeji** 👋, a 16-year-old from The Netherlands who loves 💻 programming and 🕹️ gaming (especially Minecraft 🌱). I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like **Javascript/NodeJS**, **C#/.NET**, **Python**, **HTML/CSS**, and I'm trying some **C++** and **Rust**.
+> Hey there, I'm **Himeji** 👋, a 17-year-old from The Netherlands who loves 💻 programming. I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like **Javascript/NodeJS**, **C#/.NET**, **Python**, **HTML/CSS**, and I'm trying some **C++** and **Rust**.
 > 
 > I'm in my first year of college 🎓, at [Hogeschool Utrecht](https://hu.nl/), learning new skills 🚀.
 > 
