@@ -20,7 +20,7 @@
 | 👨‍💻 Language | 🧰 Tool |
 | --- | ---- |
 | 🐱‍👤 [C#/.NET](https://dotnet.microsoft.com/en-us/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) |
-| 🦀 [Rust](https://www.rust-lang.org/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) |
+| 🦀 [Rust](https://www.rust-lang.org/) | 💻 [Visual Studio Code](https://code.visualstudio.com) |
 | 💬 [Javascript/NodeJS](https://nodejs.org/en) | 💻 [Visual Studio Code](https://code.visualstudio.com) |
 | 🐍 [Python](https://www.python.org/) | 🐍 [PyCharm](https://www.jetbrains.com/pycharm/) /  💻 [Visual Studio Code](https://code.visualstudio.com)  |
 | 🐱‍👤 [C++](https://gcc.gnu.org/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) /  💻 [Visual Studio Code](https://code.visualstudio.com)  |
