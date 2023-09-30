@@ -29,7 +29,7 @@
 
 | 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
 | :---: | ---- | ---- |
-| **[🚧]** | 🌐 [himeji.dev](https://github.com/HimejiDev/himeji.dev) [[Website](https://himeji.dev/)] | 💬 [Javascript/NodeJS](https://nodejs.org/en)  |
+| **[🚧]** | 🌐 [himeji.dev]() [[Website](https://himeji.dev/)] | 💬 [Javascript/NodeJS](https://nodejs.org/en)  |
 | **[🚧]** | 🎮 [Voxel Game](https://github.com/HimejiDev/Voxel-Game) | 🌌 [Unity](https://unity.com/)  |
 | **[🌟]** | 📦 [Discord Bot Template](https://github.com/HimejiDev/DiscordBotTemplate) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) |
 | **[🌟]** | 🔗 [Discord Package Links](https://github.com/HimejiDev/DiscordPackageLinks) [[Website](https://himejidev.github.io/DiscordPackageLinks/)] | 💬 [Javascript](https://www.javascript.com/) |
