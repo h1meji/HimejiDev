@@ -24,7 +24,7 @@
 | 💬 [Javascript/NodeJS](https://nodejs.org/en) | 💻 [Visual Studio Code](https://code.visualstudio.com) |
 | 🐍 [Python](https://www.python.org/) | 🐍 [PyCharm](https://www.jetbrains.com/pycharm/) /  💻 [Visual Studio Code](https://code.visualstudio.com)  |
 | 🐱‍👤 [C++](https://gcc.gnu.org/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) /  💻 [Visual Studio Code](https://code.visualstudio.com)  |
-| ☕ [Java](https://dotnet.microsoft.com/en-us/) | 🤓 [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows) |
+| ☕ [Java](https://www.java.com/en/) | 🤓 [IntelliJ](https://www.jetbrains.com/idea/download/?fromIDE=#section=windows) |
 | 🎨 [HTML/CSS](https://www.w3schools.com/) | 💻 [Visual Studio Code](https://code.visualstudio.com) |
 
 | 🚧 Status | 💼 Project | 👨‍💻 Language / 🧰 Tools |
