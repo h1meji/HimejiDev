@@ -49,8 +49,8 @@
 <!-- | 📧 E-Mail (himejidev@proton.me) -->
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimejiDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimejiDev)
 <!-- 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=himejidev)](https://github.com/anuraghazra/github-readme-stats)
 
