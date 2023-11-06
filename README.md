@@ -50,7 +50,6 @@
 
 ---
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimejiDev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimejiDev&layout=compact)
 <!-- 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=himejidev)](https://github.com/anuraghazra/github-readme-stats)
 
