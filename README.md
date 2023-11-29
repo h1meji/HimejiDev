@@ -1,12 +1,17 @@
 <!-- ![banner](img/banner.png) -->
+
+[himeji.dev](https://himeji.dev/)
+
 ### Hi there 👋, My name is [Himeji](https://himeji.dev/)!
 
 ---
+
 #### 📚 **Meet Himeji!**
+
 > Hey there, I'm **Himeji** 👋, a 17-year-old from The Netherlands who loves 💻 programming. I got into coding by stumbling across a [Brackeys C# tutorial](https://www.youtube.com/watch?v=jGD0vn-QIkg&ab_channel=Brackeys) a few years back and I've been teaching myself new programming languages ever since. I'm pretty decent at stuff like **Javascript/NodeJS**, **C#/.NET**, **Python**, **HTML/CSS**, and I'm trying some **C++** and **Rust**.
-> 
+>
 > I'm in my first year of college 🎓, at [Hogeschool Utrecht](https://hu.nl/), learning new skills 🚀.
-> 
+>
 > Anyway, it's cool to meet you 🤝!
 
 <table><tr><td>
@@ -17,6 +22,7 @@
 
 ---
 
+<!--
 | 👨‍💻 Language | 🧰 Tool |
 | --- | ---- |
 | 🐱‍👤 [C#/.NET](https://dotnet.microsoft.com/en-us/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) |
@@ -38,20 +44,19 @@
 | **[🌟]** | 🕹️ [Fluid Simulation](https://github.com/Steve987321/CooleSimulatie) | 🐱‍👤 [C++](https://gcc.gnu.org/) / 🖼️ [ImGUI](https://github.com/ocornut/imgui) / 🎨 [SFML](https://github.com/SFML/SFML) |
 | **[💤]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] | 💬 [Javascript](https://www.javascript.com/) |
 | **[💤]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) | 🐱‍👤 [C++](https://gcc.gnu.org/) |
-<!--| **[💤]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
+| **[💤]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
 | **[💤]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) | -->
 
-| 📬 Contact |  |
-| --- | ---- |
- | 💻 [Discord](https://www.discord.com/users/706262422251634809) | 🗨️ [Twitter](https://twitter.com/h1m3ji) |
-|  🔴 [Twitch](https://twitch.tv/himejimc) | 🎥 [YouTube](https://youtube.com/@himeji.) | 
-| 🌐 [Website](https://himeji.dev/) | 🎉 |
-<!-- | 📧 E-Mail (himejidev@proton.me) -->
+| 📬 Contact                                                     |                                            |
+| -------------------------------------------------------------- | ------------------------------------------ |
+| 💻 [Discord](https://www.discord.com/users/706262422251634809) | 🗨️ [Twitter](https://twitter.com/h1m3ji)   |
+| 🔴 [Twitch](https://twitch.tv/himejimc)                        | 🎥 [YouTube](https://youtube.com/@himeji.) |
+| 🌐 [Website](https://himeji.dev/)                              | 🎉<!-- 📧 E-Mail (himejidev@proton.me) --> |
 
 ---
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimejiDev&show_icons=true&theme=radical)
-<!-- 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=himejidev)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<!--
+
 [![buy_me_a_coffee](img/buymeacoffee.png)](https://www.buymeacoffee.com/himeji) -->
