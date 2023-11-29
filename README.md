@@ -47,11 +47,11 @@
 | **[💤]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
 | **[💤]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) | -->
 
-| 📬 Contact                                                     |                                            |
-| -------------------------------------------------------------- | ------------------------------------------ |
-| 💻 [Discord](https://www.discord.com/users/706262422251634809) | 🗨️ [Twitter](https://twitter.com/h1m3ji)   |
-| 🔴 [Twitch](https://twitch.tv/himejimc)                        | 🎥 [YouTube](https://youtube.com/@himeji.) |
-| 🌐 [Website](https://himeji.dev/)                              | 🎉<!-- 📧 E-Mail (himejidev@proton.me) --> |
+| 📬 Contact                                                     |                                                    |
+| -------------------------------------------------------------- | -------------------------------------------------- |
+| 💻 [Discord](https://www.discord.com/users/706262422251634809) | 🗨️ [Twitter](https://twitter.com/h1m3ji)           |
+| 🔴 [Twitch](https://twitch.tv/himejimc)                        | 🎥 [YouTube](https://youtube.com/@himeji.)         |
+| 🌐 [Website](https://himeji.dev/)                              | 🥶 [Discord Server](https://discord.gg/49rUCrxda9) |
 
 ---
 
