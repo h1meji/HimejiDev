@@ -1,5 +1,6 @@
-<!-- ![banner](img/banner.png) -->
+<!-- ![banner](img/banner.png)
 
+![](https://komarev.com/ghpvc/?username=HimejiDev&style=for-the-badge)
 [himeji.dev](https://himeji.dev/)
 
 ### Hi there 👋, My name is [Himeji](https://himeji.dev/)!
@@ -17,12 +18,12 @@
 <table><tr><td>
 - 🌱 Improving my C++ & Rust skills.</br>
 - 🥅 2023 Goals: Finishing Projects.</br>
-<!-- - 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/RevoltFriend">RevoltFriend</a>.</br> -->
+- 🐱‍💻 Current project: <a href="https://github.com/HimejiDev/RevoltFriend">RevoltFriend</a>.</br>
 </td></tr></table>
 
 ---
 
-<!--
+
 | 👨‍💻 Language | 🧰 Tool |
 | --- | ---- |
 | 🐱‍👤 [C#/.NET](https://dotnet.microsoft.com/en-us/) | 🖥️ [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) |
@@ -45,7 +46,7 @@
 | **[💤]** | 🖼️ [Text To Pixels](https://github.com/HimejiDev/text-to-pixels) [[Website](https://himejidev.github.io/text-to-pixels/)] | 💬 [Javascript](https://www.javascript.com/) |
 | **[💤]** | 🚂 [The Coding Train But CPP](https://github.com/HimejiDev/TheCodingTrainButCPP) | 🐱‍👤 [C++](https://gcc.gnu.org/) |
 | **[💤]** | 🌟 [RevoltFriend](https://github.com/HimejiDev/RevoltFriend) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [RevoltJS](https://developers.revolt.chat/stack/revolt.js/guide/overview) |
-| **[💤]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) | -->
+| **[💤]** | 🔥 [Eleven](https://github.com/HimejiDev/Eleven) | 💬 [Javascript/NodeJS](https://nodejs.org/en) / 🤖 [DiscordJS](https://discord.js.org/#/) | 
 
 | 📬 Contact                                                     |                                                    |
 | -------------------------------------------------------------- | -------------------------------------------------- |
@@ -53,10 +54,17 @@
 | 🔴 [Twitch](https://twitch.tv/himejimc)                        | 🎥 [YouTube](https://youtube.com/@himeji.)         |
 | 🌐 [Website](https://himeji.dev/)                              | 🥶 [Discord Server](https://discord.gg/49rUCrxda9) |
 
----
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimejiDev&show_icons=true&theme=radical)
-
-<!--
 
 [![buy_me_a_coffee](img/buymeacoffee.png)](https://www.buymeacoffee.com/himeji) -->
+
+[🌐 Website](https://himeji.dev/)
+[📬 Discord](https://www.discord.com/users/706262422251634809)
+[🥶 Discord Server](https://discord.gg/49rUCrxda9)
+
+- 🌱 Improving my C++ & Rust skills.
+- 💻 **Javascript**, **Python** and **C#**
+- 📌 Netherlands
+
+---
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=HimejiDev&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=midnight-purple)
